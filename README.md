@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=samratmaurya1217&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&v=2)<br/>
 ![](https://streak-stats.demolab.com/?user=samratmaurya1217&theme=blue-green&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=samratmaurya1217&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact&v=1)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=samratmaurya1217&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact&v=2)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=samratmaurya1217&theme=flag-india&no-frame=true&no-bg=true&margin-w=4)
